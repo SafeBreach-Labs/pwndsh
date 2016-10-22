@@ -3,6 +3,9 @@ PWND.SH
 
 pwnd.sh is a post-exploitation framework (and an interactive shell) developed in Bash shell scripting. It aims to be cross-platform (Linux, Mac OS X, Solaris etc.) and with little to no external dependencies.
 
+Slides from SkyDogCon 2016 are `available here <http://www.ikotler.org/JustGotPWND.pdf>`_
+
+
 Install:
 --------
 
